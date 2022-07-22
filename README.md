@@ -1,5 +1,5 @@
 # Omnifood
-Website created for a food delivery company through online course.
+Website created for a food delivery company.
 
 ## Technologies HTML-5, CSS3, Media Queries, Javascript.
 This is a responsive website (mobile, tablet, and desktop application)
